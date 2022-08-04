@@ -1,0 +1,84 @@
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'win32'
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.9.10 (main, Feb 11 2022, 04:18:11) [MSC v.1928 64 bit (AMD64)]'
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: (6.0.4)
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x000001ED476913A0>
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with U1 as a reference
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint REF** does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 110:Footprint  does not have Sheetfile property, it will not be replicated. Most likely it is only in schematics
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'U1'
+Located on: ['TDA2050Amp0']
+With filenames: ['tda2050.kicad_sch']
+With sheet_id:['TDA2050Amp0']
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('U4', ['TDA2050Amp3']), ('U1', ['TDA2050Amp0']), ('U2', ['TDA2050Amp1']), ('U3', ['TDA2050Amp2'])]
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(1627, 117)
+08-03 19:56:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(1263, 117)
+08-03 19:56:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:43 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:56:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:56:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:56:53 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:53 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:56:53 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:53 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:56:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:56:55 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:56:55 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:57:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:57:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'TDA2050Amp0', file:'tda2050.kicad_sch'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 145:Replicating layout
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 146:Starting replication of sheets: [['TDA2050Amp1'], ['TDA2050Amp2'], ['TDA2050Amp3']]
+on level: ['TDA2050Amp0']
+with tracks=True, zone=True, text=True, containing=False, remove=False, locked=False, by_group=False
+08-03 19:57:07 root 235:updating GUI message: 'Preparing for replication'
+08-03 19:57:07 root 240:updating GUI with: 0
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 215:Getting the list of source footprints
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 230:Getting the list of all the remaining footprints
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 235:Getting nets local to source footprints
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 238:Getting source bounding box
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 242:Getting source tracks
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 257:Getting source zones
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source text items
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source drawing items
+08-03 19:57:07 root 235:updating GUI message: 'Replicating footprints'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 669:Replicating footprints
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['TDA2050Amp1']
+08-03 19:57:07 root 240:updating GUI with: 30
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['TDA2050Amp2']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['TDA2050Amp3']
+08-03 19:57:07 root 240:updating GUI with: 97
+08-03 19:57:07 root 235:updating GUI message: 'Replicating tracks'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Replicating tracks
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['TDA2050Amp1']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['TDA2050Amp2']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['TDA2050Amp3']
+08-03 19:57:07 root 235:updating GUI message: 'Replicating zones'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 893:Replicating zones
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['TDA2050Amp1']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['TDA2050Amp2']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['TDA2050Amp3']
+08-03 19:57:07 root 235:updating GUI message: 'Replicating text'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 963:Replicating text
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['TDA2050Amp1']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['TDA2050Amp2']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['TDA2050Amp3']
+08-03 19:57:07 root 235:updating GUI message: 'Replicating drawings'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Replicating drawings
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['TDA2050Amp1']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['TDA2050Amp2']
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['TDA2050Amp3']
+08-03 19:57:07 root 235:updating GUI message: 'Removing duplicates'
+08-03 19:57:07 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 169:Replication complete

@@ -1,0 +1,102 @@
+Numero de lamina: 60
+Gramos de lamina a comprar: 3592 g
+Numero de carrete: 60_50
+Frecuencia de trabajo: 50 Hz
+Densidad de corriente: 4 A/mm2
+Rendimiento: 0,9
+Rendimiento Real: 0,91
+Coseno Fi: 0,8
+Constante Bobinado (Mano/Maquina): 2
+Induccion Bmax: 11000 Gauss
+Potencia Secundario Total: 234 W
+Seccion del nucleo: 19 cm2
+Factor de Apilado: 0,95
+Perdida en conductores: 15,59 W
+Perdida en el nucleo: 6,47 W
+Perdida adicional: 2,34 W
+Perdida: 24,40 W
+Coeficiente Perdida de la chapa: 1,8 W/Kg
+Constante Calculo Sn (k'): 1,35
+Precio del carrete: 0$
+Precio de las laminas: 1796$
+Precio del cobre: 229,4$
+Precio total estimado: 2025,4$
+
+
+Caracteristicas del bobinado primario:
+Voltaje: 220 V
+Corriente: 1,48 A
+Potencia: 325 W
+Calibre (AWG): 21
+Diametro: 0,72 mm
+Seccion: 0,41 mm2
+Vueltas: 463
+Espiras por Capa: 82
+Capas: 6
+Longitud: 93,74 m
+Largo Medio por Vuelta: 197,35 mm
+Ancho del bobinado estimado: 4,34 mm
+Resistencia: 3,89 ohm
+Perdida: 8,48 W
+Gramos a comprar: 341 g
+Precio estimado: 126,17$
+
+
+Caracteristicas del bobinado secundario 1:
+Voltaje: 36 V
+Corriente: 6 A
+Potencia: 216 W
+Calibre (AWG): 15
+Diametro: 1,45 mm
+Seccion: 1,65 mm2
+Vueltas: 80
+Bobinado sin punto medio.
+Espiras por Capa: 41
+Capas: 2
+Longitud: 17,65 m
+Largo Medio por Vuelta: 226,30 mm
+Ancho del bobinado estimado: 2,90 mm
+Resistencia: 0,18 ohm
+Perdida: 6,55 W
+Gramos a comprar: 259 g
+Precio estimado: 95,83$
+
+
+Caracteristicas del bobinado secundario 2:
+Voltaje: 12 V
+Corriente: 1 A
+Potencia: 12 W
+Calibre (AWG): 23
+Diametro: 0,57 mm
+Seccion: 0,26 mm2
+Vueltas: 27
+Bobinado sin punto medio.
+Espiras por Capa: 104
+Capas: 1
+Longitud: 6,24 m
+Largo Medio por Vuelta: 240,19 mm
+Ancho del bobinado estimado: 2,90 mm
+Resistencia: 0,35 ohm
+Perdida: 0,35 W
+Gramos a comprar: 14 g
+Precio estimado: 5,18$
+
+
+Caracteristicas del bobinado secundario 3:
+Voltaje: 120 V
+Corriente: 0,05 A
+Potencia: 6 W
+Calibre (AWG): 36
+Diametro: 0,13 mm
+Seccion: 0,01 mm2
+Vueltas: 268
+Bobinado sin punto medio.
+Espiras por Capa: 472
+Capas: 1
+Longitud: 62,93 m
+Largo Medio por Vuelta: 242,99 mm
+Ancho del bobinado estimado: 2,90 mm
+Resistencia: 84,21 ohm
+Perdida: 0,21 W
+Gramos a comprar: 6 g
+Precio estimado: 2,22$
