@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.3,
-          "height": 2.6,
-          "width": 2.6
+          "drill": 0.8,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.6
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|25000000|58000000|5940db9b-5cd4-4d4b-9f1b-a2751aacd94b|0bd9d32e-ab2e-4f48-a496-832b07d6c45c",
+        "copper_edge_clearance|252000000|130000000|8b64525e-675d-48fe-834e-7d606eb182e3|d2461a3e-9011-4f86-a0c8-1c6fa49c2c62",
+        "copper_edge_clearance|27839555|129825454|515e2f7c-0a3b-411f-84de-f4382c96f384|6705b1c9-53a0-4107-8593-d5cefc415e23",
+        "copper_edge_clearance|47500000|130000000|8b64525e-675d-48fe-834e-7d606eb182e3|22c6b221-5a82-4b35-8206-a32788dce6dd",
+        "courtyards_overlap|54929999|94244373|e5be4147-8139-4a32-9bcb-987a9ad7a672|4f282da8-7439-4587-b897-f36569cb6996"
+      ],
       "meta": {
         "version": 2
       },
@@ -121,6 +127,7 @@
       "track_widths": [
         0.0,
         1.0,
+        1.2,
         1.5,
         2.0,
         3.0,
@@ -150,11 +157,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|1549400|1028700|5cda603c-7621-4cc8-b0e7-baf8d8d20e2c|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|1549400|876300|31f352ae-cd14-40ad-8b45-dc9f0dcaf7ea|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|762000|533400|d6822380-70f5-4293-af20-17c0ee447197|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -397,11 +400,7 @@
         "name": "Hi-Power",
         "nets": [
           "+24V",
-          "-24V",
-          "/TDA2050Amp0/OUTPUT",
-          "/TDA2050Amp1/OUTPUT",
-          "/TDA2050Amp2/OUTPUT",
-          "/TDA2050Amp3/OUTPUT"
+          "-24V"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -457,7 +456,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "gerber/kh8833-poweramp.dsn",
       "step": "",
       "vrml": ""
     },
